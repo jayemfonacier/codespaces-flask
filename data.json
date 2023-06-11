@@ -1,0 +1,90 @@
+[
+    {
+        "username": "NewUser",
+        "email": "newuser@example.com",
+        "phone_number": "9876543210",
+        "age": 35,
+        "sex": "Male",
+        "id": 2
+    },
+    {
+        "username": "NewUser",
+        "email": "newuser@example.com",
+        "phone_number": "9876543210",
+        "age": 35,
+        "sex": "Male",
+        "id": 3
+    },
+    {
+        "username": "NewUser",
+        "email": "newuser@example.com",
+        "phone_number": "9876543210",
+        "age": 35,
+        "sex": "Male",
+        "id": 3
+    },
+    {
+        "username": "NewUser",
+        "email": "newuser@example.com",
+        "phone_number": "9876543210",
+        "age": 35,
+        "sex": "Male",
+        "id": 4
+    },
+    {
+        "username": "bestUser",
+        "email": "knyxfulg@yahoo.com",
+        "phone_number": 8583827134,
+        "age": 87,
+        "sex": "Male",
+        "id": 5
+    },
+    {
+        "username": "nensrbvv",
+        "email": "snmlbulc@gmail.com",
+        "phone_number": 8751969101,
+        "age": 88,
+        "sex": "Female",
+        "id": 7
+    },
+    {
+        "username": "zslqatix",
+        "email": "arkbhpew@gmail.com",
+        "phone_number": 7365789512,
+        "age": 44,
+        "sex": "Male",
+        "id": 7
+    },
+    {
+        "username": "kpjwnpbz",
+        "email": "mqntuyrp@hotmail.com",
+        "phone_number": 4490980011,
+        "age": 91,
+        "sex": "Female",
+        "id": 8
+    },
+    {
+        "username": "bvpuahcy",
+        "email": "walmiwws@gmail.com",
+        "phone_number": 6041025620,
+        "age": 57,
+        "sex": "Female",
+        "id": 9
+    },
+    {
+        "username": "ijuvdpvl",
+        "email": "kfgacppa@yahoo.com",
+        "phone_number": 5801430815,
+        "age": 73,
+        "sex": "Female",
+        "id": 10
+    },
+    {
+        "username": "xxkfyxox",
+        "email": "ssldchlc@hotmail.com",
+        "phone_number": 3021989361,
+        "age": 95,
+        "sex": "Female",
+        "id": 11
+    }
+]
